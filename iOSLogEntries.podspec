@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'logentries'
+  s.name = 'iOSLogEntries'
   s.version = '1.2'
   s.summary = 'Logentries logging for iOS'
   s.homepage = 'https://github.com/logentries/le_ios'
